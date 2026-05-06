@@ -1,0 +1,507 @@
+country,Artist,album,Genre,release_year,Platform Type
+germany,  Taylor Swift,1989 (Taylor's Version),,2020,Free
+Brazil,The Weeknd,After Hours,R&B,2023,Premium
+United States,Post Malone,Austin,Reggaeton,2019,Free
+Italy,Ed Sheeran,Autumn Variations,K-pop,2019,Premium
+Italy,Ed Sheeran,Autumn Variations,R&B,2019,Free
+Sweden,Billie Eilish,Happier Than Ever,Indie,2019,Free
+France,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Rock,2019,Premium
+france,Doja Cat,Scarlet,Pop,2022,Premium
+Sweden,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,K-pop,2019,Premium
+United Kingdom,Ariana Grande,Eternal Sunshine,Rock,2020,Premium
+Argentina,Dua Lipa,Future Nostalgia,,2023,Premium
+South Korea,BLACKPINK,BORN PINK,Reggaeton,2021,Free
+South Korea,  Doja Cat,Scarlet,Jazz,2022,Free
+Germany,SZA,SOS,Indie,2022,Premium
+south africa,Post Malone,Austin,Reggaeton,2019,Premium
+Australia,Karol G,MAÑANA SERÁ BONITO,K-pop,2019,Free
+United States,Ed Sheeran,Autumn Variations,Jazz,2019,Free
+Brazil,Ariana Grande,Eternal Sunshine,R&B,2020,Premium
+Netherlands,The Weeknd,After Hours,Hip Hop,2023,Free
+Germany,Taylor Swift,1989 (Taylor's Version),EDM,2020,Premium
+Sweden,The Weeknd,After Hours,,2023,Free
+france,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,EDM,2019,Free
+Sweden,BTS,Proof,EDM,2023,Free
+India,Ed Sheeran,Autumn Variations,Jazz,2019,Free
+Canada,  Drake,For All The Dogs,Classical,2018,Free
+Brazil,BLACKPINK,BORN PINK,Classical,2021,Free
+South Korea,Dua Lipa,Future Nostalgia,Indie,2023,Free
+Italy,SZA,SOS,Hip Hop,2022,Free
+germany,SZA,SOS,Reggaeton,2022,Free
+Mexico,Ariana Grande,Eternal Sunshine,Rock,2020,Premium
+United Kingdom,Billie Eilish,Happier Than Ever,,2019,Free
+United Kingdom,Ariana Grande,Eternal Sunshine,Pop,2020,Free
+France,Billie Eilish,Happier Than Ever,Hip Hop,2019,Free
+Canada,Post Malone,Austin,Reggaeton,2019,Free
+Germany,BLACKPINK,BORN PINK,Pop,2021,Free
+spain,Olivia Rodrigo,Guts,K-pop,2022,Premium
+Mexico,  Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Premium
+Spain,SZA,SOS,Classical,2022,Free
+Japan,Ed Sheeran,Autumn Variations,Indie,2019,Premium
+South Africa,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,R&B,2019,Premium
+South Korea,BTS,Proof,,2023,Free
+Canada,Billie Eilish,Happier Than Ever,Hip Hop,2019,Free
+australia,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Pop,2019,Premium
+Spain,Dua Lipa,Future Nostalgia,EDM,2023,Free
+Indonesia,Dua Lipa,Future Nostalgia,Pop,2023,Premium
+Argentina,Doja Cat,Scarlet,Jazz,2022,Premium
+Mexico,Post Malone,Austin,Jazz,2019,Premium
+Brazil,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Reggaeton,2019,Premium
+Australia,  Doja Cat,Scarlet,EDM,2022,Premium
+south korea,Post Malone,Austin,EDM,2019,Premium
+United States,BLACKPINK,BORN PINK,,2021,Free
+Spain,Ed Sheeran,Autumn Variations,Classical,2019,Free
+Sweden,Olivia Rodrigo,Guts,Indie,2022,Premium
+Italy,The Weeknd,After Hours,Hip Hop,2023,Free
+Germany,Ed Sheeran,Autumn Variations,R&B,2019,Free
+South Korea,Drake,For All The Dogs,Classical,2018,Free
+france,Drake,For All The Dogs,K-pop,2018,Premium
+Brazil,Ariana Grande,Eternal Sunshine,Indie,2020,Premium
+Indonesia,Billie Eilish,Happier Than Ever,K-pop,2019,Premium
+Brazil,BTS,Proof,Rock,2023,Premium
+Australia,  Olivia Rodrigo,Guts,,2022,Free
+Russia,Ariana Grande,Eternal Sunshine,R&B,2020,Premium
+South Korea,Billie Eilish,Happier Than Ever,Classical,2019,Premium
+south korea,BTS,Proof,R&B,2023,Free
+Mexico,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Premium
+South Africa,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,K-pop,2019,Premium
+South Korea,Dua Lipa,Future Nostalgia,Rock,2023,Free
+Brazil,Ed Sheeran,Autumn Variations,Pop,2019,Free
+Argentina,Post Malone,Austin,Classical,2019,Premium
+Argentina,Karol G,MAÑANA SERÁ BONITO,Hip Hop,2019,Free
+argentina,Dua Lipa,Future Nostalgia,,2023,Free
+Turkey,Billie Eilish,Happier Than Ever,R&B,2019,Free
+South Korea,  Ed Sheeran,Autumn Variations,Classical,2019,Premium
+Brazil,Ed Sheeran,Autumn Variations,Pop,2019,Free
+Mexico,Ed Sheeran,Autumn Variations,Pop,2019,Premium
+Brazil,Dua Lipa,Future Nostalgia,Indie,2023,Premium
+South Africa,Taylor Swift,1989 (Taylor's Version),Rock,2020,Free
+netherlands,Taylor Swift,1989 (Taylor's Version),R&B,2020,Free
+South Korea,Dua Lipa,Future Nostalgia,Rock,2023,Premium
+Brazil,The Weeknd,After Hours,Hip Hop,2023,Premium
+Russia,Dua Lipa,Future Nostalgia,,2023,Free
+Netherlands,Olivia Rodrigo,Guts,Jazz,2022,Premium
+Russia,Olivia Rodrigo,Guts,Indie,2022,Free
+Netherlands,Taylor Swift,1989 (Taylor's Version),Indie,2020,Free
+indonesia,  Ed Sheeran,Autumn Variations,Indie,2019,Free
+United Kingdom,Drake,For All The Dogs,Rock,2018,Premium
+Russia,Doja Cat,Scarlet,Jazz,2022,Free
+Germany,Post Malone,Austin,Hip Hop,2019,Free
+United Kingdom,The Weeknd,After Hours,Jazz,2023,Premium
+Turkey,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,R&B,2019,Premium
+Canada,Drake,For All The Dogs,,2018,Premium
+spain,Doja Cat,Scarlet,Rock,2022,Premium
+Spain,BTS,Proof,Pop,2023,Premium
+France,Ed Sheeran,Autumn Variations,Indie,2019,Free
+India,BTS,Proof,Rock,2023,Premium
+South Africa,SZA,SOS,Indie,2022,Premium
+Japan,  Post Malone,Austin,Hip Hop,2019,Premium
+Italy,Drake,For All The Dogs,EDM,2018,Premium
+italy,Drake,For All The Dogs,R&B,2018,Free
+Sweden,SZA,SOS,K-pop,2022,Premium
+South Africa,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,,2019,Free
+Russia,Ed Sheeran,Autumn Variations,EDM,2019,Premium
+South Africa,SZA,SOS,Indie,2022,Premium
+Argentina,Taylor Swift,1989 (Taylor's Version),Pop,2020,Free
+France,Olivia Rodrigo,Guts,Reggaeton,2022,Premium
+united states,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Pop,2019,Free
+Germany,Karol G,MAÑANA SERÁ BONITO,Hip Hop,2019,Free
+Indonesia,BTS,Proof,Rock,2023,Free
+Brazil,  SZA,SOS,Hip Hop,2022,Premium
+South Korea,Dua Lipa,Future Nostalgia,Jazz,2023,Free
+Netherlands,Olivia Rodrigo,Guts,,2022,Premium
+Russia,Drake,For All The Dogs,Hip Hop,2018,Free
+japan,Billie Eilish,Happier Than Ever,Hip Hop,2019,Free
+Italy,Drake,For All The Dogs,Classical,2018,Premium
+France,Post Malone,Austin,EDM,2019,Free
+Mexico,Taylor Swift,1989 (Taylor's Version),Reggaeton,2020,Free
+United Kingdom,Karol G,MAÑANA SERÁ BONITO,Pop,2019,Premium
+Turkey,Ed Sheeran,Autumn Variations,Hip Hop,2019,Premium
+Sweden,BLACKPINK,BORN PINK,K-pop,2021,Premium
+france,BLACKPINK,BORN PINK,Classical,2021,Premium
+Russia,  Karol G,MAÑANA SERÁ BONITO,,2019,Premium
+India,BLACKPINK,BORN PINK,Pop,2021,Premium
+Japan,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Free
+Brazil,BLACKPINK,BORN PINK,K-pop,2021,Free
+Italy,Olivia Rodrigo,Guts,Reggaeton,2022,Free
+Russia,Dua Lipa,Future Nostalgia,Classical,2023,Premium
+united kingdom,Dua Lipa,Future Nostalgia,Hip Hop,2023,Free
+India,Olivia Rodrigo,Guts,K-pop,2022,Premium
+India,Dua Lipa,Future Nostalgia,Classical,2023,Premium
+Japan,Karol G,MAÑANA SERÁ BONITO,Hip Hop,2019,Free
+Spain,BLACKPINK,BORN PINK,,2021,Free
+Mexico,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Premium
+Brazil,  BTS,Proof,Jazz,2023,Free
+italy,Taylor Swift,1989 (Taylor's Version),Indie,2020,Free
+South Korea,Doja Cat,Scarlet,Hip Hop,2022,Premium
+Argentina,BLACKPINK,BORN PINK,Reggaeton,2021,Premium
+France,Dua Lipa,Future Nostalgia,Classical,2023,Premium
+Turkey,Dua Lipa,Future Nostalgia,Rock,2023,Free
+Mexico,Taylor Swift,1989 (Taylor's Version),Rock,2020,Premium
+Sweden,SZA,SOS,Jazz,2022,Premium
+spain,Ariana Grande,Eternal Sunshine,,2020,Free
+United Kingdom,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Pop,2019,Premium
+Brazil,Taylor Swift,1989 (Taylor's Version),K-pop,2020,Free
+Germany,Taylor Swift,1989 (Taylor's Version),R&B,2020,Premium
+Indonesia,  Ed Sheeran,Autumn Variations,R&B,2019,Premium
+Indonesia,Olivia Rodrigo,Guts,Hip Hop,2022,Premium
+Italy,BTS,Proof,Pop,2023,Premium
+japan,Doja Cat,Scarlet,Reggaeton,2022,Free
+India,BTS,Proof,R&B,2023,Premium
+Mexico,Taylor Swift,1989 (Taylor's Version),R&B,2020,Free
+Spain,Karol G,MAÑANA SERÁ BONITO,,2019,Premium
+Brazil,BLACKPINK,BORN PINK,Classical,2021,Premium
+Canada,Karol G,MAÑANA SERÁ BONITO,Rock,2019,Premium
+India,Drake,For All The Dogs,EDM,2018,Premium
+italy,Olivia Rodrigo,Guts,EDM,2022,Premium
+Indonesia,Olivia Rodrigo,Guts,EDM,2022,Premium
+Germany,  BTS,Proof,K-pop,2023,Premium
+Brazil,Dua Lipa,Future Nostalgia,Reggaeton,2023,Premium
+South Africa,Ariana Grande,Eternal Sunshine,K-pop,2020,Premium
+Australia,Post Malone,Austin,Reggaeton,2019,Free
+South Korea,BLACKPINK,BORN PINK,,2021,Premium
+indonesia,Olivia Rodrigo,Guts,Reggaeton,2022,Free
+South Korea,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Reggaeton,2019,Premium
+South Africa,BTS,Proof,Reggaeton,2023,Free
+Argentina,Olivia Rodrigo,Guts,Classical,2022,Premium
+Netherlands,Ed Sheeran,Autumn Variations,Pop,2019,Free
+South Korea,Dua Lipa,Future Nostalgia,Hip Hop,2023,Free
+Italy,BLACKPINK,BORN PINK,Reggaeton,2021,Premium
+south korea,  BLACKPINK,BORN PINK,Classical,2021,Premium
+Indonesia,Dua Lipa,Future Nostalgia,Rock,2023,Free
+India,BTS,Proof,,2023,Free
+Italy,Post Malone,Austin,EDM,2019,Premium
+South Africa,BTS,Proof,Classical,2023,Premium
+United Kingdom,The Weeknd,After Hours,Classical,2023,Premium
+Indonesia,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Indie,2019,Premium
+russia,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Premium
+United States,Ed Sheeran,Autumn Variations,Rock,2019,Free
+Argentina,Post Malone,Austin,EDM,2019,Free
+United Kingdom,BLACKPINK,BORN PINK,R&B,2021,Free
+South Africa,Olivia Rodrigo,Guts,Rock,2022,Premium
+Mexico,  Ed Sheeran,Autumn Variations,,2019,Premium
+Russia,Olivia Rodrigo,Guts,Rock,2022,Premium
+italy,Post Malone,Austin,Reggaeton,2019,Premium
+South Africa,BTS,Proof,Jazz,2023,Free
+France,Taylor Swift,1989 (Taylor's Version),Hip Hop,2020,Free
+Russia,Dua Lipa,Future Nostalgia,R&B,2023,Free
+India,SZA,SOS,Reggaeton,2022,Premium
+South Korea,SZA,SOS,Pop,2022,Premium
+Russia,SZA,SOS,Reggaeton,2022,Premium
+united states,Karol G,MAÑANA SERÁ BONITO,Indie,2019,Premium
+Brazil,BLACKPINK,BORN PINK,,2021,Premium
+Japan,BTS,Proof,Classical,2023,Free
+Indonesia,  SZA,SOS,K-pop,2022,Free
+Sweden,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Free
+Argentina,Doja Cat,Scarlet,Hip Hop,2022,Free
+Australia,Ed Sheeran,Autumn Variations,Jazz,2019,Premium
+india,Dua Lipa,Future Nostalgia,Reggaeton,2023,Premium
+United States,Karol G,MAÑANA SERÁ BONITO,R&B,2019,Free
+Russia,Taylor Swift,1989 (Taylor's Version),K-pop,2020,Premium
+Sweden,Doja Cat,Scarlet,EDM,2022,Premium
+Spain,Ariana Grande,Eternal Sunshine,,2020,Premium
+South Africa,BLACKPINK,BORN PINK,R&B,2021,Free
+Argentina,Post Malone,Austin,Pop,2019,Free
+sweden,The Weeknd,After Hours,Jazz,2023,Free
+Japan,  Ed Sheeran,Autumn Variations,Classical,2019,Free
+South Africa,Ed Sheeran,Autumn Variations,Reggaeton,2019,Premium
+Netherlands,BLACKPINK,BORN PINK,Reggaeton,2021,Premium
+Sweden,SZA,SOS,Pop,2022,Premium
+Sweden,Doja Cat,Scarlet,Indie,2022,Free
+Turkey,Karol G,MAÑANA SERÁ BONITO,Jazz,2019,Free
+germany,Karol G,MAÑANA SERÁ BONITO,,2019,Premium
+South Africa,Billie Eilish,Happier Than Ever,Indie,2019,Premium
+Australia,Olivia Rodrigo,Guts,Indie,2022,Premium
+France,BLACKPINK,BORN PINK,Classical,2021,Premium
+Russia,Dua Lipa,Future Nostalgia,Reggaeton,2023,Free
+Brazil,Doja Cat,Scarlet,Pop,2022,Free
+India,  Ed Sheeran,Autumn Variations,Classical,2019,Free
+south korea,Taylor Swift,1989 (Taylor's Version),Jazz,2020,Free
+Argentina,Ariana Grande,Eternal Sunshine,K-pop,2020,Free
+Brazil,Billie Eilish,Happier Than Ever,Pop,2019,Free
+Japan,Ed Sheeran,Autumn Variations,,2019,Premium
+Mexico,SZA,SOS,Jazz,2022,Free
+Spain,SZA,SOS,Hip Hop,2022,Premium
+Brazil,Ariana Grande,Eternal Sunshine,Indie,2020,Premium
+mexico,Post Malone,Austin,Rock,2019,Premium
+France,Karol G,MAÑANA SERÁ BONITO,Hip Hop,2019,Premium
+United States,BTS,Proof,Rock,2023,Premium
+South Africa,Drake,For All The Dogs,Classical,2018,Free
+France,  Ed Sheeran,Autumn Variations,Jazz,2019,Free
+Netherlands,BTS,Proof,Rock,2023,Free
+United States,BLACKPINK,BORN PINK,,2021,Free
+australia,Dua Lipa,Future Nostalgia,Indie,2023,Premium
+Japan,BLACKPINK,BORN PINK,K-pop,2021,Free
+Sweden,Karol G,MAÑANA SERÁ BONITO,R&B,2019,Premium
+South Korea,The Weeknd,After Hours,K-pop,2023,Premium
+Netherlands,Ariana Grande,Eternal Sunshine,Pop,2020,Free
+Italy,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Premium
+United States,Drake,For All The Dogs,K-pop,2018,Premium
+turkey,Karol G,MAÑANA SERÁ BONITO,Jazz,2019,Free
+United Kingdom,Olivia Rodrigo,Guts,K-pop,2022,Premium
+Brazil,  BTS,Proof,,2023,Free
+Indonesia,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Jazz,2019,Free
+Spain,Taylor Swift,1989 (Taylor's Version),Classical,2020,Premium
+Brazil,Ed Sheeran,Autumn Variations,Hip Hop,2019,Premium
+Argentina,BLACKPINK,BORN PINK,Classical,2021,Premium
+united kingdom,Olivia Rodrigo,Guts,Hip Hop,2022,Premium
+Netherlands,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Rock,2019,Free
+Japan,Doja Cat,Scarlet,Rock,2022,Premium
+Russia,BLACKPINK,BORN PINK,Rock,2021,Free
+South Africa,BTS,Proof,Reggaeton,2023,Free
+Italy,Ariana Grande,Eternal Sunshine,,2020,Free
+Sweden,BTS,Proof,Indie,2023,Premium
+netherlands,  Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Premium
+South Korea,BTS,Proof,Classical,2023,Free
+India,BTS,Proof,Reggaeton,2023,Premium
+Mexico,Billie Eilish,Happier Than Ever,EDM,2019,Premium
+Sweden,Dua Lipa,Future Nostalgia,Indie,2023,Premium
+Brazil,Post Malone,Austin,Jazz,2019,Premium
+Turkey,Doja Cat,Scarlet,Rock,2022,Premium
+canada,Dua Lipa,Future Nostalgia,Rock,2023,Premium
+Mexico,Drake,For All The Dogs,,2018,Premium
+Netherlands,Billie Eilish,Happier Than Ever,Hip Hop,2019,Premium
+Germany,Doja Cat,Scarlet,EDM,2022,Free
+South Korea,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,EDM,2019,Free
+United Kingdom,  SZA,SOS,EDM,2022,Free
+Netherlands,Olivia Rodrigo,Guts,Reggaeton,2022,Premium
+south korea,The Weeknd,After Hours,Jazz,2023,Free
+Russia,Billie Eilish,Happier Than Ever,Classical,2019,Free
+Netherlands,Olivia Rodrigo,Guts,Jazz,2022,Free
+India,Post Malone,Austin,EDM,2019,Premium
+Argentina,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,,2019,Premium
+Brazil,BTS,Proof,EDM,2023,Free
+South Korea,Billie Eilish,Happier Than Ever,Reggaeton,2019,Premium
+mexico,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Indie,2019,Free
+Indonesia,Drake,For All The Dogs,K-pop,2018,Free
+Italy,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,K-pop,2019,Free
+France,  Taylor Swift,1989 (Taylor's Version),Rock,2020,Premium
+Japan,BTS,Proof,Hip Hop,2023,Free
+Sweden,Doja Cat,Scarlet,K-pop,2022,Premium
+Italy,Ed Sheeran,Autumn Variations,Rock,2019,Premium
+united states,Olivia Rodrigo,Guts,,2022,Free
+United Kingdom,Karol G,MAÑANA SERÁ BONITO,K-pop,2019,Premium
+Turkey,Drake,For All The Dogs,Jazz,2018,Free
+Japan,SZA,SOS,EDM,2022,Free
+Germany,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Hip Hop,2019,Free
+Germany,Drake,For All The Dogs,Reggaeton,2018,Premium
+Italy,BLACKPINK,BORN PINK,Jazz,2021,Premium
+south africa,The Weeknd,After Hours,Hip Hop,2023,Free
+Italy,  Billie Eilish,Happier Than Ever,Hip Hop,2019,Free
+United Kingdom,Drake,For All The Dogs,Indie,2018,Premium
+Netherlands,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,,2019,Free
+South Africa,Dua Lipa,Future Nostalgia,Pop,2023,Free
+United States,BLACKPINK,BORN PINK,Indie,2021,Premium
+Argentina,The Weeknd,After Hours,Pop,2023,Free
+france,BTS,Proof,Jazz,2023,Premium
+Canada,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,R&B,2019,Premium
+Turkey,The Weeknd,After Hours,Rock,2023,Free
+Japan,SZA,SOS,Classical,2022,Premium
+United Kingdom,Post Malone,Austin,Hip Hop,2019,Premium
+Japan,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Reggaeton,2019,Free
+Argentina,  Post Malone,Austin,,2019,Premium
+turkey,BLACKPINK,BORN PINK,Classical,2021,Free
+Brazil,The Weeknd,After Hours,Indie,2023,Premium
+France,Karol G,MAÑANA SERÁ BONITO,Hip Hop,2019,Premium
+Russia,SZA,SOS,EDM,2022,Free
+India,BTS,Proof,Pop,2023,Free
+Brazil,Olivia Rodrigo,Guts,Classical,2022,Premium
+Australia,The Weeknd,After Hours,EDM,2023,Premium
+turkey,Ariana Grande,Eternal Sunshine,Rock,2020,Premium
+Canada,Billie Eilish,Happier Than Ever,K-pop,2019,Premium
+Canada,Olivia Rodrigo,Guts,,2022,Premium
+Germany,Drake,For All The Dogs,Indie,2018,Premium
+South Africa,  Billie Eilish,Happier Than Ever,Rock,2019,Free
+Turkey,Billie Eilish,Happier Than Ever,Classical,2019,Free
+Netherlands,Drake,For All The Dogs,EDM,2018,Free
+south africa,Olivia Rodrigo,Guts,K-pop,2022,Premium
+Turkey,Ed Sheeran,Autumn Variations,Classical,2019,Premium
+Russia,Ed Sheeran,Autumn Variations,Classical,2019,Premium
+Japan,Karol G,MAÑANA SERÁ BONITO,R&B,2019,Premium
+Germany,Doja Cat,Scarlet,R&B,2022,Premium
+Sweden,The Weeknd,After Hours,,2023,Free
+Spain,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Jazz,2019,Free
+italy,Karol G,MAÑANA SERÁ BONITO,R&B,2019,Free
+Sweden,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Rock,2019,Free
+Canada,  Doja Cat,Scarlet,Classical,2022,Premium
+United States,Dua Lipa,Future Nostalgia,Reggaeton,2023,Premium
+Mexico,BLACKPINK,BORN PINK,EDM,2021,Premium
+Italy,Ariana Grande,Eternal Sunshine,Classical,2020,Premium
+Mexico,Billie Eilish,Happier Than Ever,K-pop,2019,Premium
+united states,Billie Eilish,Happier Than Ever,Rock,2019,Free
+South Africa,Billie Eilish,Happier Than Ever,,2019,Free
+Mexico,Karol G,MAÑANA SERÁ BONITO,Jazz,2019,Free
+Japan,Olivia Rodrigo,Guts,K-pop,2022,Free
+Germany,Doja Cat,Scarlet,EDM,2022,Free
+Sweden,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Indie,2019,Premium
+Mexico,The Weeknd,After Hours,Reggaeton,2023,Premium
+russia,  BLACKPINK,BORN PINK,Pop,2021,Free
+France,The Weeknd,After Hours,Indie,2023,Free
+Indonesia,Ed Sheeran,Autumn Variations,Jazz,2019,Premium
+Spain,Taylor Swift,1989 (Taylor's Version),R&B,2020,Free
+India,BLACKPINK,BORN PINK,,2021,Free
+Sweden,BLACKPINK,BORN PINK,Hip Hop,2021,Free
+Indonesia,BTS,Proof,Classical,2023,Free
+russia,The Weeknd,After Hours,Classical,2023,Premium
+Russia,SZA,SOS,R&B,2022,Free
+United Kingdom,Drake,For All The Dogs,Jazz,2018,Premium
+Canada,Doja Cat,Scarlet,Pop,2022,Free
+Canada,Olivia Rodrigo,Guts,Indie,2022,Premium
+Sweden,  BTS,Proof,EDM,2023,Free
+Canada,Drake,For All The Dogs,EDM,2018,Premium
+united kingdom,Dua Lipa,Future Nostalgia,,2023,Free
+Turkey,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Free
+Russia,Olivia Rodrigo,Guts,EDM,2022,Free
+Russia,Doja Cat,Scarlet,Reggaeton,2022,Free
+France,Drake,For All The Dogs,Rock,2018,Free
+United States,Drake,For All The Dogs,EDM,2018,Premium
+Sweden,Olivia Rodrigo,Guts,Indie,2022,Premium
+sweden,Drake,For All The Dogs,Hip Hop,2018,Premium
+Germany,Taylor Swift,1989 (Taylor's Version),Reggaeton,2020,Free
+Spain,The Weeknd,After Hours,Rock,2023,Free
+Turkey,  Ariana Grande,Eternal Sunshine,,2020,Premium
+Canada,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Premium
+Argentina,SZA,SOS,R&B,2022,Free
+Indonesia,BTS,Proof,Jazz,2023,Premium
+united kingdom,Karol G,MAÑANA SERÁ BONITO,Reggaeton,2019,Premium
+Netherlands,Billie Eilish,Happier Than Ever,Jazz,2019,Premium
+Australia,BTS,Proof,Reggaeton,2023,Free
+Sweden,Drake,For All The Dogs,Classical,2018,Free
+South Korea,Karol G,MAÑANA SERÁ BONITO,Pop,2019,Free
+Argentina,Doja Cat,Scarlet,Rock,2022,Free
+South Korea,Dua Lipa,Future Nostalgia,,2023,Free
+united kingdom,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Premium
+Argentina,  Doja Cat,Scarlet,K-pop,2022,Free
+Indonesia,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,EDM,2019,Premium
+Argentina,Ariana Grande,Eternal Sunshine,Rock,2020,Premium
+Argentina,The Weeknd,After Hours,Pop,2023,Premium
+Indonesia,Doja Cat,Scarlet,Indie,2022,Free
+Germany,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Jazz,2019,Premium
+netherlands,Billie Eilish,Happier Than Ever,Hip Hop,2019,Free
+South Africa,Drake,For All The Dogs,Classical,2018,Premium
+South Africa,Taylor Swift,1989 (Taylor's Version),,2020,Free
+Argentina,Drake,For All The Dogs,K-pop,2018,Free
+South Africa,BTS,Proof,Reggaeton,2023,Premium
+South Africa,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Hip Hop,2019,Premium
+Italy,  The Weeknd,After Hours,EDM,2023,Premium
+turkey,Doja Cat,Scarlet,Pop,2022,Free
+Japan,Olivia Rodrigo,Guts,Reggaeton,2022,Premium
+South Korea,Karol G,MAÑANA SERÁ BONITO,Classical,2019,Free
+Netherlands,BTS,Proof,Indie,2023,Premium
+Argentina,Drake,For All The Dogs,K-pop,2018,Free
+United States,Doja Cat,Scarlet,,2022,Premium
+Spain,The Weeknd,After Hours,Classical,2023,Premium
+argentina,Billie Eilish,Happier Than Ever,Reggaeton,2019,Free
+Italy,Taylor Swift,1989 (Taylor's Version),R&B,2020,Premium
+India,Taylor Swift,1989 (Taylor's Version),Indie,2020,Premium
+Spain,Billie Eilish,Happier Than Ever,EDM,2019,Free
+Italy,  Dua Lipa,Future Nostalgia,Rock,2023,Premium
+Italy,Ed Sheeran,Autumn Variations,Hip Hop,2019,Premium
+Netherlands,Taylor Swift,1989 (Taylor's Version),R&B,2020,Free
+canada,Ariana Grande,Eternal Sunshine,EDM,2020,Premium
+Argentina,Dua Lipa,Future Nostalgia,,2023,Free
+Canada,Karol G,MAÑANA SERÁ BONITO,Indie,2019,Free
+Indonesia,Billie Eilish,Happier Than Ever,EDM,2019,Free
+Argentina,Ariana Grande,Eternal Sunshine,Pop,2020,Premium
+Spain,Olivia Rodrigo,Guts,Classical,2022,Premium
+Brazil,BTS,Proof,Classical,2023,Free
+australia,Karol G,MAÑANA SERÁ BONITO,Indie,2019,Premium
+Spain,Post Malone,Austin,R&B,2019,Premium
+Italy,  Post Malone,Austin,EDM,2019,Free
+Japan,Post Malone,Austin,Jazz,2019,Free
+Russia,SZA,SOS,,2022,Premium
+Indonesia,BTS,Proof,Classical,2023,Free
+Indonesia,BTS,Proof,R&B,2023,Free
+canada,Drake,For All The Dogs,K-pop,2018,Free
+South Africa,SZA,SOS,Classical,2022,Premium
+Mexico,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,EDM,2019,Premium
+Turkey,BTS,Proof,Rock,2023,Premium
+United States,Dua Lipa,Future Nostalgia,Hip Hop,2023,Free
+Italy,Ariana Grande,Eternal Sunshine,Jazz,2020,Premium
+Russia,Olivia Rodrigo,Guts,Indie,2022,Free
+france,  Doja Cat,Scarlet,,2022,Free
+Russia,Ed Sheeran,Autumn Variations,Pop,2019,Premium
+Indonesia,BTS,Proof,EDM,2023,Free
+Canada,Dua Lipa,Future Nostalgia,Hip Hop,2023,Premium
+Argentina,Doja Cat,Scarlet,K-pop,2022,Premium
+Netherlands,Karol G,MAÑANA SERÁ BONITO,Indie,2019,Free
+France,Ariana Grande,Eternal Sunshine,EDM,2020,Free
+indonesia,Ariana Grande,Eternal Sunshine,Indie,2020,Free
+Russia,Doja Cat,Scarlet,Hip Hop,2022,Premium
+Italy,Doja Cat,Scarlet,Classical,2022,Premium
+Russia,Post Malone,Austin,,2019,Free
+Netherlands,Billie Eilish,Happier Than Ever,Classical,2019,Premium
+Mexico,  Ed Sheeran,Autumn Variations,EDM,2019,Premium
+United States,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,R&B,2019,Premium
+russia,Ariana Grande,Eternal Sunshine,Pop,2020,Free
+Spain,BTS,Proof,R&B,2023,Free
+Japan,Doja Cat,Scarlet,Rock,2022,Free
+Turkey,BLACKPINK,BORN PINK,Jazz,2021,Free
+Mexico,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,K-pop,2019,Premium
+Russia,Post Malone,Austin,Rock,2019,Free
+South Africa,BLACKPINK,BORN PINK,,2021,Premium
+indonesia,Post Malone,Austin,Classical,2019,Premium
+United Kingdom,BTS,Proof,Hip Hop,2023,Premium
+South Africa,Taylor Swift,1989 (Taylor's Version),Reggaeton,2020,Free
+Japan,  BLACKPINK,BORN PINK,K-pop,2021,Free
+Brazil,Ariana Grande,Eternal Sunshine,Rock,2020,Free
+Spain,Post Malone,Austin,Rock,2019,Free
+South Korea,SZA,SOS,Indie,2022,Premium
+italy,SZA,SOS,Pop,2022,Free
+Spain,Post Malone,Austin,R&B,2019,Free
+Canada,Dua Lipa,Future Nostalgia,,2023,Free
+South Africa,Post Malone,Austin,Hip Hop,2019,Premium
+Australia,Taylor Swift,1989 (Taylor's Version),EDM,2020,Premium
+Turkey,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Jazz,2019,Free
+South Korea,Doja Cat,Scarlet,K-pop,2022,Free
+italy,Post Malone,Austin,Classical,2019,Free
+South Africa,  Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Classical,2019,Free
+Canada,Doja Cat,Scarlet,Pop,2022,Premium
+Turkey,BTS,Proof,Pop,2023,Premium
+Sweden,Post Malone,Austin,Pop,2019,Free
+India,Karol G,MAÑANA SERÁ BONITO,,2019,Free
+Indonesia,Billie Eilish,Happier Than Ever,R&B,2019,Free
+sweden,Karol G,MAÑANA SERÁ BONITO,EDM,2019,Free
+Italy,SZA,SOS,Indie,2022,Premium
+France,Ed Sheeran,Autumn Variations,Jazz,2019,Premium
+India,BTS,Proof,Classical,2023,Free
+Mexico,SZA,SOS,Jazz,2022,Premium
+Turkey,The Weeknd,After Hours,R&B,2023,Free
+Canada,  Dua Lipa,Future Nostalgia,Classical,2023,Free
+japan,Olivia Rodrigo,Guts,EDM,2022,Free
+India,BTS,Proof,,2023,Free
+Spain,Dua Lipa,Future Nostalgia,Classical,2023,Free
+India,Ariana Grande,Eternal Sunshine,EDM,2020,Free
+Spain,Billie Eilish,Happier Than Ever,Classical,2019,Premium
+Turkey,Drake,For All The Dogs,Hip Hop,2018,Free
+Italy,Ed Sheeran,Autumn Variations,Rock,2019,Premium
+brazil,Drake,For All The Dogs,Pop,2018,Free
+South Korea,Dua Lipa,Future Nostalgia,Rock,2023,Premium
+United Kingdom,Karol G,MAÑANA SERÁ BONITO,Pop,2019,Premium
+Mexico,Taylor Swift,1989 (Taylor's Version),Rock,2020,Premium
+Spain,  The Weeknd,After Hours,,2023,Free
+Sweden,Ariana Grande,Eternal Sunshine,Pop,2020,Free
+Italy,Billie Eilish,Happier Than Ever,K-pop,2019,Premium
+united states,Ariana Grande,Eternal Sunshine,K-pop,2020,Premium
+France,BLACKPINK,BORN PINK,R&B,2021,Free
+South Africa,Billie Eilish,Happier Than Ever,R&B,2019,Free
+Canada,Olivia Rodrigo,Guts,Hip Hop,2022,Free
+Netherlands,BLACKPINK,BORN PINK,K-pop,2021,Free
+Canada,Taylor Swift,1989 (Taylor's Version),Classical,2020,Free
+Russia,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Jazz,2019,Premium
+india,BLACKPINK,BORN PINK,,2021,Free
+Sweden,Doja Cat,Scarlet,Classical,2022,Free
+Japan,  BLACKPINK,BORN PINK,Classical,2021,Free
+India,SZA,SOS,R&B,2022,Free
+South Korea,Post Malone,Austin,K-pop,2019,Free
+Brazil,Karol G,MAÑANA SERÁ BONITO,Jazz,2019,Premium
+Canada,Dua Lipa,Future Nostalgia,Classical,2023,Free
+germany,Karol G,MAÑANA SERÁ BONITO,Rock,2019,Free
+Canada,SZA,SOS,Indie,2022,Free
+Sweden,BTS,Proof,Reggaeton,2023,Free
+Brazil,The Weeknd,After Hours,R&B,2023,Premium
+United States,Post Malone,Austin,Reggaeton,2019,Free
+Italy,Ed Sheeran,Autumn Variations,K-pop,2019,Premium
+Italy,Ed Sheeran,Autumn Variations,R&B,2019,Free
+Sweden,Billie Eilish,Happier Than Ever,Indie,2019,Free
+France,Bad Bunny,Nadie Sabe Lo Que Va a Pasar Mañana,Rock,2019,Premium
